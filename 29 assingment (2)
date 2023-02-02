@@ -1,0 +1,337 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ca907bc0-d010-4645-bc6a-e59da991d2fa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "1. Who developed Python Programming Language? ans-by Guido van Rossum\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "421e15f7-df8e-4933-94e3-2ae2d0f3e619",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "2. Which type of Programming does Python support?\n",
+    "ans-Which Type Of Programming Does Python Support? With Code\n",
+    "Examples\n",
+    "This article will show you, via a series of examples, how to fix the Which\n",
+    "Type Of Programming Does Python Support? problem that occurs in code.\n",
+    "Python emphasizes support for common programming methodologies\n",
+    "such as data structure design and object-oriented programming, and\n",
+    "encourages programmers to write readable (and thus maintainable) code\n",
+    "by providing an elegant but not overly cryptic notation.\n",
+    "As we have seen, the Which Type Of Programming Does Python Support?\n",
+    "problem was solved by using a number of different instances.\n",
+    "2. Which type of Programming does Python support? Explanation: Python\n",
+    "is an interpreted programming language, which supports object-oriented,\n",
+    "structured, and functional programming.\n",
+    "Which type of programming does\n",
+    "Python not support?\n",
+    "Python doesn’t fully support this paradigm because it can’t implement\n",
+    "features such as data hiding (encapsulation), which many believe is a\n",
+    "primary requirement of the object-oriented programming\n",
+    "paradigm.27-Aug-2018\n",
+    "Which type of programming does\n",
+    "Python support * object-oriented\n",
+    "programming structured programming\n",
+    "functional programming all of the\n",
+    "above?\n",
+    "d. Python is an interpreted programming language, supporting\n",
+    "object-oriented, structured, and functional programming.\n",
+    "Does Python support structured\n",
+    "programming?\n",
+    "Design philosophy and features. Python is a multi-paradigm programming\n",
+    "language. Object-oriented programming and structured programming are\n",
+    "fully supported, and many of its features support functional programming\n",
+    "and aspect-oriented programming (including metaprogramming and\n",
+    "metaobjects [magic methods] ).\n",
+    "Which of the following is not a feature\n",
+    "of Python programming language Mcq?\n",
+    "c)not open source.20-Nov-2020\n",
+    "How many types of programming are\n",
+    "there in Python?\n",
+    "Python support three programming paradigms: Imperative, Functional, and\n",
+    "Object-Oriented. Figure 1, shows features of each of these programming\n",
+    "paradigms.\n",
+    "Does Python fully support OOP?\n",
+    "Python supports all the concept of “object oriented programming” but it is\n",
+    "NOT fully object oriented because – The code in Python can also be written\n",
+    "without creating classes.27-Nov-2018\n",
+    "What is Python programming used for?\n",
+    "Python is often used as a support language for software developers, for\n",
+    "build control and management, testing, and in many other ways. SCons for\n",
+    "build control. Buildbot and Apache Gump for automated continuous\n",
+    "compilation and testing.\n",
+    "Is Python OOP or structured\n",
+    "programming?\n",
+    "Python is considered as an object-oriented programming language rather\n",
+    "than a procedural programming language.31-Jul-2020\n",
+    "Is Python OOP or structure\n",
+    "programming Support your answer with\n",
+    "reason?\n",
+    "Python is a great programming language that supports OOP. You will use it\n",
+    "to define a class with attributes and methods, which you will then call.\n",
+    "Python offers a number of benefits compared to other programming\n",
+    "languages like Java, C++ or R. It’s a dynamic language, with high-level data\n",
+    "types.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9899fadf-b951-4449-9099-dae29248f511",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "3. Is Python case sensitive when dealing with identifiers?\n",
+    "Ans-yes python is case sensitive\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d471b84b-919e-4b1b-a59a-4adb134cb61a",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "4. What is the correct extension of the Python file?\n",
+    "ans=.py"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cac79a9c-3b48-4ffb-b3c9-877de27bccdd",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "5. Is Python code compiled or interpreted?\n",
+    "ans-interpreted"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c2c57437-b2aa-436d-8fbb-e1cc7e8a960c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "6. Name a few blocks of code used to define in Python language?\n",
+    "ans-The definitions are all confusing I have looked up definitions, but all of them seem\n",
+    "confusing. Sorry I am a very new to this and I would improve it if there were a simple"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a5622df9-c01d-481a-a7c3-f5ac18dcf89c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "7. State a character used to give single-line comments in Python?\n",
+    "ans-Single-line Comments In Python, the # character is used to start a comment."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ea07498d-dfaa-4661-8be6-e3d5b573fda6",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "8. Mention functions which can help us to find the version of python that we are currently\n",
+    "working on?\n",
+    "ans-Correct Answer is : A. sys.version Explanation The function sys.version can help us\n",
+    "to find the version of python that we are currently working on. For example, 3.5.2, 2.7.3\n",
+    "etc. this function also returns the current date, time, bits etc along with the version.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1b0746b0-742b-458b-8940-2f6e21847844",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "9. Python supports the creation of anonymous functions at runtime, using a construct called\n",
+    "ans-Python supports the creation of anonymous functions (i.e. functions that are not\n",
+    "bound to a name) at runtime, using a construct called lambda. Lambda functions are\n",
+    "restricted to a single expression\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c94fa3a3-8658-4759-954f-ecdf6c118315",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "10. What does pip stand for python?\n",
+    "ans-Install pip by adding the source code for pip/setuptools/wheel to the PYTHONPATH\n",
+    "● Install wheel using pip by adding the source code for wheel to the\n",
+    "PYTHONPATH\n",
+    "● Install all other Python packages by adding a build dependency on pip and\n",
+    "wheel (and any other deps\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "96b772fa-3ed1-4e0e-981e-6afee1753aa0",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "11. Mention a few built-in functions in python?\n",
+    "ans-Built-in Functions¶ The Python interpreter has a number of functions and types built\n",
+    "into it that are always available. They are listed here in alphabetical order. Built-in\n",
+    "Functions abs() dict() help() min() setattr() all() dir() hex() next() slice() any() divmod()\n",
+    "id() object() sorted() ascii() enumerate() input() oct() staticmethod() bin()\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "cee954b9-075c-4a82-a4c9-6cc5ea865b1c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "12. What is the maximum possible length of an identifier in Python?\n",
+    "ans-he Python Language Reference: Identifiers are unlimited in length. But you'll be\n",
+    "violating PEP-8 most likely, which is not really cool: Limit all lines to a maximum of 79\n",
+    "characters. Readability counts. @AlexanderTobiasHeinrich Your code will be\n",
+    "absolutely unreadable\n",
+    "13. What are the benefits of using Python?\n",
+    "ans-Top Reasons to Learn Python. Python programming is powering the global job\n",
+    "market because the benefits of Python are clear. ...\n",
+    "● Python Commands Demand. According to Forbes,companies accelerated\n",
+    "data science and analytics hires this past year. ...\n",
+    "● Help a Startup-Startup. Into innovation or entrepreneurship? ...\n",
+    "● Python Security. ...\n",
+    "● Speed: Compared to Java or C,the rate of Python is slower. ...\n",
+    "● Memory consumption: Python has a very high memory consumption. ...\n",
+    "● Mobile development: Python is strong in server platforms and desktops,and\n",
+    "hence it is a fantastic server-side programming language. ...\n",
+    "● Database access: Python provides easy programming. ..."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "68e9f553-813c-4e0c-ae6c-dcc19788163c",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "14. How is memory managed in Python?\n",
+    "ans-Python memory management is been divided into two parts. Methods and\n",
+    "variables are created in Stack memory. Objects and instance variables values are\n",
+    "created in Heap memory. In stack memory - a stack frame is created whenever\n",
+    "methods and variables are created. These stacks frames are destroyed automaticaly\n",
+    "whenever functions/methods returns.\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dc2358af-bf22-426b-ade5-5e6d1df4f5db",
+   "metadata": {},
+   "source": [
+    "15. How to install Python on Windows and set path variables? 16. Is indentation required in\n",
+    "python?\n",
+    "ans-Simply add a new variable (or modify the existing PATH) You should also add\n",
+    "C:\\\\Python27\\\\Scripts to your PATH as most commands installed by Python scripts\n",
+    "(like django-admin.py) are installed here. Directories are separated by ; Once you have\n",
+    "done this; python should work properly for you on Windows.\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "790d3728-7f36-4490-a5ea-accd3538374d",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d1b18b0e-11b4-455e-a858-2f2fe878068c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fc187dd7-80f4-46c2-9356-e0ef75cfde69",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "379a5c38-4225-4f8c-abaf-4cc749524a2e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7051d3dc-b686-4443-8092-66d244004bfe",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3519bf41-1ee9-4fca-a22a-b8152925d89c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "5d24ac00-aec8-4a59-b58b-fe212f679eeb",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fcc72638-abc8-4f0b-a0a6-305961383f03",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.8"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
